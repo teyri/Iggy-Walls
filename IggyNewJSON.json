@@ -2,6 +2,12 @@
   "wallpapers": [
   {
       "author": "Denitsa Pavlova",
+      "url": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Cross%20Wallpaper1.png",
+      "name": "Cross 1"
+      
+    },
+  {
+      "author": "Denitsa Pavlova",
       "url": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Wave%20Wallpaper9.png",
       "name": "Wave 9"
       
@@ -9,7 +15,7 @@
    {
       "author": "Denitsa Pavlova",
       "url": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Wave%20Wallpaper8.png",
-      "name": "Wave 8"
+      "name": "Wave 8" 
       
     },
   {
