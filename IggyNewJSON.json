@@ -66,7 +66,7 @@
     "thumbUrl": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Leaf_thumb.png"
   },
   {
-    "name": "Hills",
+    "name": "Grey",
     "author": "Denitsa Pavlova",
     "url": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Grey.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Grey_thumb.png"
@@ -354,6 +354,18 @@
     "thumbUrl": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Cross%20Wallpaper1_thumb.png"
   },
   {
+    "name": "Wave 11",
+    "author": "Denitsa Pavlova",
+    "url": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Wave%20Wallpaper11.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Wave%20Wallpaper11_thumb.png"
+  },
+  {
+    "name": "Wave 10",
+    "author": "Denitsa Pavlova",
+    "url": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Wave%20Wallpaper10.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Wave%20Wallpaper10_thumb.png"
+  },
+  {
     "name": "Wave 9",
     "author": "Denitsa Pavlova",
     "url": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Wave%20Wallpaper9.png",
@@ -496,6 +508,12 @@
     "author": "Denitsa Pavlova",
     "url": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Dark%20Night%20.png",
     "thumbUrl": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Dark%20Night%20_thumb.png"
+  },
+   {
+    "name": "Hills",
+    "author": "Denitsa Pavlova",
+    "url": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Hills.png",
+    "thumbUrl": "https://raw.githubusercontent.com/teyri/Iggy-Walls/master/Hills_thumb.png"
   },
   {
     "name": "Starry Night",
